@@ -1,4 +1,4 @@
-class CricketMatch:
+class CricketMatch :
     def __init__(self, location, team1, team2, timing):
         self.location = location
         self.team1 = team1
